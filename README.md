@@ -6,3 +6,9 @@ For this project I have been asked to collect Twitter data using twarc in order 
 The most popular language in the dataset was English and the average number of followers of the users was 29.5K, the minumum number of followers was 0 and the max was 8.5 million.
 
 Data Exploration | Data Cleaning
+#### Twitter Project 2
+For this project I have been asked to answer the following question: "To what extent does the sentiment expressed in a tweet influence user engagement with the tweet (likes and retweets)?"
+
+A Sentiment Analysis has been performed (on Azure) on the Tweets. The dataset extracted has been merged witht the original dataset and consequently analysed: as a result, the average number of times that a Tweet has been retweetted or liked was higher when the sentiment expressed in a Tweet was Positive rather than Negative or Neutral sentiment. The positive sentiment expressed in a Tweets positively influence user engagment.
+
+Data Cleaning | Merging | Sentiment Analysis 
