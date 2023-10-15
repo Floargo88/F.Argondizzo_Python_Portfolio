@@ -29,7 +29,7 @@ For this project I have been asked to work with a set of different marketing cam
 
 The marketing campaign with no endorsers (CPC campaign) seem to be the best among all the others. The predictions made shown that the chances of making a purchase are 51.5% if a user has seen the CPC campaign. Instead, if a user has seen the influencerA marketing campaign, the chances of making a purchase are 28.2%. Also, if a user has seen the influencerB marketing campaign the chances of making a purchase are 32%. Additionally, the amount of the purchase in € looks better stimulated by the CPC campaign as well: 95€ is the average purchase made from a user who interacted with CPC vs 60€ from the influencerB campaign and 28€ from influencerA campaign.👌
 
-Predictive Analytics | Data Modeling | Machine Learning | Model Performances Evaluation | Decision Forests
+Predictive Analytics | Data Modeling | Machine Learning | Performance Matrix | Decision Forests
 #### Fundraising Campaign Project
 For this porject I have been asked to answer the following question: to what exextent a fundraising campaign with endorsers will better enhance donations and consequently increase revenue compared to a fundraising campaign without endorsers?
 
