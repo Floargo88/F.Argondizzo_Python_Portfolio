@@ -7,7 +7,7 @@ The most popular language in the dataset was English and the average number of f
 
 Data Exploration | Data Cleaning
 #### Twitter Project 2
-This was another challenge of Twitter project 1. I have been asked to answer the following question: to what extent does the sentiment expressed in a tweet influence user engagement with the tweet (likes and retweets)?
+This was another challenge from the Twitter project 1. I have been asked to answer the following question: to what extent does the sentiment expressed in a tweet influence user engagement with the tweet (likes and retweets)?
 
 A Sentiment Analysis has been performed (on Azure) on the Tweets. The dataset extracted has been merged witht the original dataset and consequently analysed: as a result, the average number of times that a Tweet has been retweetted or liked was higher when the sentiment expressed in a Tweet was Positive rather than Negative or Neutral sentiment. The positive sentiment expressed in a Tweets positively influence user engagment.👌
 
